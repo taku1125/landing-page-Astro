@@ -1,0 +1,655 @@
+[33mcommit 3b4e7456d8d00d9a8a7de48b03cc207e4e07e03b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Feels_HiguchiTakumi <takumi.higuchi@feel-s.co.jp>
+Date:   Fri Mar 15 14:15:49 2024 +0900
+
+    first commit
+
+[33mcommit 0701dd5e9a9c35ac40a855219224d6922d9a7af2[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Feb 7 11:05:19 2024 +0600
+
+    update banner
+
+[33mcommit 096966db390e4c5a0e3cce87e4fb230b5cbe7677[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Feb 5 15:38:36 2024 +0600
+
+    update packages and tabs shotcode
+
+[33mcommit 394552d6664a3e7c43f5639b43149d16d16eac40[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Feb 4 15:35:38 2024 +0600
+
+    update accessiblity:
+
+[33mcommit eac711191d5892229553f589211579e25b1d57a4[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Jan 29 10:48:17 2024 +0600
+
+    modified banner button target
+
+[33mcommit 8ea4e78168ce02d5c774f56b5315156f682c2061[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Jan 28 16:36:56 2024 +0600
+
+    fixed type error for astro-font
+
+[33mcommit f09a4621782feb0a83c8e1fb9157a0451190a22c[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat Jan 27 10:20:03 2024 +0600
+
+    update packages and dependencies
+
+[33mcommit 5ceca22106fd37d512f7f0bc46c9af66c40de727[m
+Merge: 70d1cc4 5710c2f
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Sat Jan 27 10:00:30 2024 +0600
+
+    Merge pull request #30 from rishi-raj-jain/main
+    
+    feat: astro-font - optimize fonts & prevent CLS
+
+[33mcommit 5710c2f51dda9877d72446b1f97507cb4a044b21[m
+Author: Rishi Raj Jain <rishi18304@iiitd.ac.in>
+Date:   Fri Jan 26 18:54:10 2024 +0530
+
+    Update package.json
+
+[33mcommit af941d5d7ed831b0b144aa8434e647e538d86223[m
+Author: Rishi Raj Jain <rishi18304@iiitd.ac.in>
+Date:   Fri Jan 26 18:53:58 2024 +0530
+
+    Update tailwind.config.js
+
+[33mcommit 9eb4cfecfca9335fdd21aaf1423c264e9d67a0f2[m
+Author: Rishi Raj Jain <rishi18304@iiitd.ac.in>
+Date:   Fri Jan 26 18:53:48 2024 +0530
+
+    Update Base.astro
+
+[33mcommit 70d1cc4b8806c326a24e6aacaa2b2d222309dc31[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Thu Jan 4 14:49:15 2024 +0600
+
+    update dateFormat using date-fns only
+
+[33mcommit bd1dd7dd02da7e6f30e9e4148c24c22e9c659b90[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue Dec 26 09:07:55 2023 +0600
+
+    fixed prose-darkmode issue
+
+[33mcommit 65f9ec6779a43e32150a42d00be80fb17e28c775[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Dec 24 14:39:01 2023 +0600
+
+    fixed nav color in darkmode
+
+[33mcommit 8abd6e3688a722350c3882f0a70f8af9b5d18fcf[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Dec 24 13:29:36 2023 +0600
+
+    update font loading link
+
+[33mcommit 37d7a190d855b6a7f8585fb53bec7899e0fe2ea3[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Dec 24 13:14:41 2023 +0600
+
+    added ImageMod component for image optimization
+
+[33mcommit 92ec961f80a9b50baf2f727053039569c8fd6365[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue Dec 19 08:52:26 2023 +0600
+
+    update jsonGenerator
+
+[33mcommit 6efeb5cd0e54f6d237f795da0f92dc8503d86281[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Dec 13 12:39:44 2023 +0600
+
+    added search modal label
+
+[33mcommit aa721ab2c98b269eb9df90cf37d0de12055d4031[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Dec 13 11:32:05 2023 +0600
+
+    update blog card
+
+[33mcommit 94358b9b8e64310568217252eff8d5d5b2ab28b3[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Dec 13 09:53:47 2023 +0600
+
+    updated to astro v4
+
+[33mcommit e96cc9d7edfd53029a36618c648646cef86fa99a[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Dec 11 15:20:32 2023 +0600
+
+    update searchModal
+
+[33mcommit a032e3d90b78bdc5585ebfb39db110bcf22d0f47[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Dec 11 15:19:08 2023 +0600
+
+    update searchModal
+
+[33mcommit 5da3079efb4609de50c3375738ef32b56cc4fc8d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Dec 11 15:00:43 2023 +0600
+
+    remove search page and added search modal
+
+[33mcommit 4c3b181a4688e9dbbca60d0e302d971778e819ad[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat Dec 9 11:14:43 2023 +0600
+
+    added contentParser with type support
+
+[33mcommit afb57b58255d3db96f2def2888145828a4a35c3b[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Dec 3 15:28:12 2023 +0600
+
+    updated to astro v3.6
+
+[33mcommit 34e3ac525fc97ed6c1fa7d98f07cdbb472d4ff41[m
+Merge: e053fe6 4798b6a
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Sun Nov 26 08:35:24 2023 +0600
+
+    Merge pull request #22 from sydneysoftwaredev/doc/fix-readme-typo
+    
+    doc: fix typo in readme
+
+[33mcommit 4798b6aff4d95664ed793e11e1f9874988b9be3e[m
+Author: Joe Niland <joe@originalmind.com.au>
+Date:   Fri Nov 24 17:50:30 2023 +1100
+
+    doc: fix typo in readme
+    
+    - docker build-arg
+
+[33mcommit e053fe60b058911fcf79ab94340f4d5fd3e7bbd3[m
+Merge: 9809ac6 e6979ff
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Tue Nov 21 13:12:51 2023 +0600
+
+    Merge pull request #20 from sydneysoftwaredev/chore/update-docker-config-for-static-site-2
+    
+    chore: configure Dockerfile to serve the project as a static site
+
+[33mcommit e6979ff06cfd5f1ec6f6670cc6e92140121a7443[m
+Author: Joe Niland <joe@originalmind.com.au>
+Date:   Tue Nov 21 13:06:50 2023 +1100
+
+    chore: configure Dockerfile to serve the project as a static site
+
+[33mcommit 9809ac6e9e862e8025e842f706c17c0065bbd4b2[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Oct 25 12:09:35 2023 +0600
+
+    remove depricated func getEntryBySlug and added getEntry
+
+[33mcommit f714555598399fef9003d8052535cf180849bb07[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Oct 25 11:38:41 2023 +0600
+
+    update packages
+
+[33mcommit 5892b1e675f459a5e8af3c5da30fe7964fe35d77[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Oct 25 11:33:52 2023 +0600
+
+    update astro-config
+
+[33mcommit 7aa8bf8b49afe129f2bba30c0df0fad8902d3745[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Oct 23 09:05:10 2023 +0600
+
+    fixed issue #17
+
+[33mcommit 4539079c562d49d113d35dced35175aedb682a17[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Thu Oct 19 08:52:46 2023 +0600
+
+    added astro transitions and update packages
+
+[33mcommit 97e51d2f62d627f1479e2289d3b36a25e83b33c1[m
+Merge: 7905560 cff66f7
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Wed Oct 18 13:02:00 2023 +0600
+
+    Merge pull request #16 from tfmukles/main
+    
+    refactor dark mode issue
+
+[33mcommit cff66f7478796d363099c4c62f13f7a5baedbdf5[m
+Author: TF Mukles <tfmukles@Sojon.local>
+Date:   Wed Oct 18 10:19:56 2023 +0600
+
+    refactor toggle theme
+
+[33mcommit 9d1ac829f8c02704ba0786222b781e64add4b829[m
+Author: tfmukles <mukles.themefisher@gmail.com>
+Date:   Wed Oct 18 00:08:16 2023 +0600
+
+    refactor dark mode issue
+
+[33mcommit 79055609d621d4398b303d6f97f1713dc8806ff7[m
+Merge: 2c7fec9 4da7925
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Sun Oct 1 08:46:36 2023 +0600
+
+    Merge pull request #15 from alerodrod/fix-breadcrumbs-for-single-pages
+    
+    Fix Breadcrumbs for single pages
+
+[33mcommit 2c7fec9a4ff44c5391fbb1143969977d530ae52e[m
+Merge: 90dd21b 95e74c0
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Sun Oct 1 08:46:00 2023 +0600
+
+    Merge pull request #14 from alerodrod/sync-build-format-trailing-slash
+    
+    Sync build.format with trailing_slash config
+
+[33mcommit 4da7925bf705b5d90c418bf46c6f69653b302853[m
+Author: Alejandro Rodríguez <4986045+alerodrod@users.noreply.github.com>
+Date:   Sat Sep 30 23:40:50 2023 +0200
+
+    Fix Breadcrumbs for single pages
+
+[33mcommit 95e74c04f05f9552e605578e3f3c8040d1f21f71[m
+Author: Alejandro Rodríguez <4986045+alerodrod@users.noreply.github.com>
+Date:   Sat Sep 30 23:18:53 2023 +0200
+
+    Sync build.format with trailing_slash config
+
+[33mcommit 90dd21b97cfd7b9ec5796e837205aa027699d31d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Sep 4 10:31:48 2023 +0600
+
+    remove @astro/image from package, close issue #10
+
+[33mcommit 50b11f472620646167a949393ea1b21af0a350d8[m
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Sun Sep 3 13:51:03 2023 +0600
+
+    Update readme.md
+
+[33mcommit d88f0f62b6a692e622e8b8f9bef17a1fd061ff07[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Sep 3 12:46:51 2023 +0600
+
+    migrate to astro v3
+
+[33mcommit 77c166f41bfc389d21ec5eb26a878e37a422a331[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat Aug 19 09:05:26 2023 +0600
+
+    update packages
+
+[33mcommit de8674c8a308aec738722020a8b0dc82cc438271[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Aug 13 09:17:40 2023 +0600
+
+    update package.json
+
+[33mcommit 36f142d7991ec61f1150c074cc7bfb284fa7877d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Aug 6 08:27:46 2023 +0600
+
+    update contact form
+
+[33mcommit a08c950a4cd80c8d3cf2f59f04c8912cbd2a8a8b[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Aug 2 09:05:45 2023 +0600
+
+    update textConverter, close issue #7
+
+[33mcommit 692dde74d6556f9231c606ea768292d772d8a1ba[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Jul 31 11:07:44 2023 +0600
+
+    update content
+
+[33mcommit 23a89825c102119dd3877bcbd07308a95ce7d37e[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Jul 30 16:23:23 2023 +0600
+
+    update about and contact page
+
+[33mcommit 8c6adf664ddfbaa7820df132ed20394dd9edc78d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Jul 30 09:47:45 2023 +0600
+
+    update 404 page
+
+[33mcommit a350fffae87c23f66d14894041a8ea0509072604[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Jul 30 09:25:57 2023 +0600
+
+    update 404 page
+
+[33mcommit 9660f9fda9b5c8ac9f82d8ffa7793a3845dfb1b0[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Thu Jul 27 10:30:41 2023 +0600
+
+    update navigation
+
+[33mcommit 6b048173b60950711010f4202909aecd6fcafb43[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Jul 24 13:11:26 2023 +0600
+
+    update netlify settings
+
+[33mcommit 3d19b8c0ac7908379ff80751ed9cdf839de50c9f[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Jul 24 10:53:54 2023 +0600
+
+    update images
+
+[33mcommit abed7aa2a8f53f3c783329ff12f845573bd73679[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Jul 24 10:02:33 2023 +0600
+
+    update banner-img
+
+[33mcommit 0d3562c1bf9142e14df08379a8a499a90180a585[m
+Author: Farhad <94342419+tffarhad@users.noreply.github.com>
+Date:   Sat Jul 22 17:02:20 2023 +0600
+
+    Update readme.md
+
+[33mcommit b030b2967e02388d4f8638a4d0c2264ae797070d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat Jul 22 11:46:07 2023 +0600
+
+    added basic docker setup
+
+[33mcommit 175afe2eaba8c36201c3827adde965396999602d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat Jul 22 11:38:07 2023 +0600
+
+    update packages and navigation
+
+[33mcommit 09a1de3fb547474eae1b5f97c07369ffd7bdd637[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Jul 16 09:11:29 2023 +0600
+
+    update readme file
+
+[33mcommit fae60f3b4a21369df2ae626e0fa9ec0c365d8747[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Thu Jul 13 10:21:38 2023 +0600
+
+    update dynamicIcon
+
+[33mcommit 901ef0919558b4d64db8155093f001858fef9d4c[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Jul 9 09:01:49 2023 +0600
+
+    update tsconfig
+
+[33mcommit ebf127bc216d216f7768287673113410ac162feb[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Thu Jul 6 10:24:58 2023 +0600
+
+    update swiper and tsconfig
+
+[33mcommit ad03af58a38dc5f210247fa8f9ff6aa0989a7bca[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue Jun 27 15:12:29 2023 +0600
+
+    added dynamicIcon
+
+[33mcommit fdaf7880a5295ff5edd4b5c9bec900281a88be69[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun Jun 18 10:43:23 2023 +0600
+
+    update scripts in package.json
+
+[33mcommit f86175c9a062954b54cb29dff67f4777c97bd7fd[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat Jun 17 12:12:44 2023 +0600
+
+    update dependencies and similarItem.ts
+
+[33mcommit cbc1c568abe47cafbb6237e11c3da3aa48aef84e[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue May 30 12:28:44 2023 +0600
+
+    update tsconfig
+
+[33mcommit e597fbde987a9d8021b94d2b600fb6bd6f0fb2ff[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue May 30 10:59:44 2023 +0600
+
+    update tsconfig
+
+[33mcommit 399edb9d2a3a9296dd84c839886de17d1365d5e3[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue May 30 10:53:50 2023 +0600
+
+    moved types to src
+
+[33mcommit 2be55dbca4a61e352382f03a89a885cefae8c956[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 29 11:59:38 2023 +0600
+
+    update Button shortcode
+
+[33mcommit a945dbff77b290de31c506c880273ff6a4498c62[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 29 11:44:08 2023 +0600
+
+    update remove-darkmode.js
+
+[33mcommit 55c13589a0bce6ae3ed15ad628d08a1ceb7725b1[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 29 11:36:12 2023 +0600
+
+    separate dependencies and devDependencies, added removeDarkmode.js
+
+[33mcommit 517cdd8d1bc98fef19bf8d9ee0fc7ffbc20262a3[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 22 13:22:19 2023 +0600
+
+    update menu
+
+[33mcommit 53ccf1cf29489295c62e0e8b114e30bbce5036b0[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 22 13:19:59 2023 +0600
+
+    rename posts to blog
+
+[33mcommit 38dad164487da4765d75102da47b27d74eb13a48[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun May 21 12:46:07 2023 +0600
+
+    format code
+
+[33mcommit b169d93ec98fe2c33fd10b4d97eb5a7da6eed33d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun May 21 12:44:58 2023 +0600
+
+    format code
+
+[33mcommit 7048d2fc883aff784cc1f9fbe9f43e47e6491fef[m
+Merge: 1431ce1 41cf468
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Sun May 21 11:49:34 2023 +0600
+
+    Merge pull request #5 from tfsohag/main
+    
+    added type definitions
+
+[33mcommit 41cf4685809cb3b88690144859e82fb465fab612[m
+Author: ferdous <hassanferdous101@gmail.com>
+Date:   Sun May 21 11:42:20 2023 +0600
+
+    added type definitions
+
+[33mcommit 1431ce1d35589b46bec5563a02f01d653fe00478[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat May 20 10:44:13 2023 +0600
+
+    fixed taxonomy list page overlapping issue
+
+[33mcommit 511365e797e94e153d0e8665c2f5dbf0b592d83e[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 15 12:34:04 2023 +0600
+
+    update package.json
+
+[33mcommit cc0e52e48bc2d8d901c3c4d2a8b2000b0320f720[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 15 12:19:03 2023 +0600
+
+    rename index file for collection and added accessiblity for some components
+
+[33mcommit 60c98d631bceb9f666c7e6a38b1de35b92e7f6a7[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sun May 14 15:18:03 2023 +0600
+
+    modified Disqus
+
+[33mcommit 982b13a09d895a29a11c26298ed4ef562582dd80[m
+Merge: ed7a32e 36e8818
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Sat May 13 16:26:55 2023 +0600
+
+    Merge pull request #3 from zeon-studio/dev
+    
+    Added Tab shortcode
+
+[33mcommit 36e8818657e050b78dafaf74216afb215dd45c82[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat May 13 16:25:26 2023 +0600
+
+    added Tab Shortcode
+
+[33mcommit 6cea09528c25890f97a6fbd81e59623c57cc94fc[m
+Author: Omar Faruk <faruk.themefisher@gmail.com>
+Date:   Sat May 13 16:04:53 2023 +0600
+
+    fixing tab issue
+
+[33mcommit c01f9ddb07627eaf3be78adc9523b53690df9a38[m
+Author: Omar Faruk <faruk.themefisher@gmail.com>
+Date:   Sat May 13 15:48:37 2023 +0600
+
+    fixed tab issue for elements page
+
+[33mcommit 998b6253417c1c0f3a09381e8de7e79f2ed3b08d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Sat May 13 13:41:22 2023 +0600
+
+    testing tabs shortcode
+
+[33mcommit ed7a32efb62a81715a61bab79ffe25dd66bae23b[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Thu May 11 13:06:14 2023 +0600
+
+    modified contentParser and index.md file for blog and author, fixed issue #2
+
+[33mcommit e58aeab8a10f7336cc293ff8cf308cd616ba7a8f[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed May 10 11:18:53 2023 +0600
+
+    update readme file
+
+[33mcommit 841e511a721c53df4ac74cc25964f4ee1ac37789[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed May 10 09:13:13 2023 +0600
+
+    fixed search results url
+
+[33mcommit a555fd28f5520a09eea6bf87ab10e80c9a62699f[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue May 9 16:27:56 2023 +0600
+
+    fixed testimonial slider issue, now using date-fns for dateFormat, update sortFunctions
+
+[33mcommit 3f2572b7d26a1435d40d1121e24f77f91dd81fff[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue May 9 13:18:20 2023 +0600
+
+    update package.json
+
+[33mcommit d5adbb8875d6e2c94ff72f2818322a62b643bba5[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Tue May 9 13:11:19 2023 +0600
+
+    update tsconfig and packages
+
+[33mcommit a731b522599f99f740334f316a9bbe6daf75ed67[m
+Author: Farhad <94342419+tffarhad@users.noreply.github.com>
+Date:   Tue May 2 16:26:05 2023 +0600
+
+    Update readme.md
+
+[33mcommit 01bb044b3f2dfe001b65b35337187337ef03c681[m
+Author: Farhad <94342419+tffarhad@users.noreply.github.com>
+Date:   Tue May 2 13:12:36 2023 +0600
+
+    Update readme.md
+
+[33mcommit b1b277f44379e76b587dfebdc6361149bc4bb3f7[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon May 1 11:04:10 2023 +0600
+
+    improve testimonial cards, fix some minor issues
+
+[33mcommit 53c561c269c2b5fd905339fe87fdd2b142f1bfa5[m
+Author: Somrat <58769763+tfsomrat@users.noreply.github.com>
+Date:   Wed Apr 19 14:45:46 2023 +0600
+
+    Update readme.md
+
+[33mcommit 99f8e5be0504af41a04162838715605f41678974[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Wed Apr 19 12:19:30 2023 +0600
+
+    modified netlify settings
+
+[33mcommit 638aed9993bd31d334e36efbcb18300a07373904[m
+Author: Farhad <94342419+tffarhad@users.noreply.github.com>
+Date:   Mon Apr 17 16:27:13 2023 +0600
+
+    Create LICENSE
+
+[33mcommit fd72828bdf75195a5082f692040ca1356dc7da74[m
+Author: Farhad <94342419+tffarhad@users.noreply.github.com>
+Date:   Mon Apr 17 16:25:54 2023 +0600
+
+    Update readme.md
+
+[33mcommit 365569b18ff1af1667da7ad000de013db5b49324[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Apr 17 15:30:07 2023 +0600
+
+    improve accessiblity
+
+[33mcommit 905846f7926e251e97c1c0199978c2729c8114ba[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Apr 17 13:23:02 2023 +0600
+
+    update content
+
+[33mcommit 8f37ff2cd4aa31ff1c7e53c99a518c880301ddc3[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Apr 17 13:16:51 2023 +0600
+
+    modified package.json
+
+[33mcommit bd3d4d888956c91d3aab28f0432647778b194170[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Apr 17 12:55:23 2023 +0600
+
+    modified netlify settings
+
+[33mcommit 8badd3f3e7455913fec68110d9f215d0826c3c1d[m
+Author: somrat sorkar <themefisher.dev@gmail.com>
+Date:   Mon Apr 17 12:50:29 2023 +0600
+
+    initialize project
